@@ -30,7 +30,7 @@ A **React autocomplete component** that provides real-time product search sugges
 
 3. **Start the Development Server**
    ```bash
-   npm start
+   npm run dev
    ```
 
    The app will run at: [http://localhost:3000](http://localhost:3000)
