@@ -33,7 +33,7 @@ A **React autocomplete component** that provides real-time product search sugges
    npm run dev
    ```
 
-   The app will run at: [http://localhost:3000](http://localhost:3000)
+   The app will run at: [http://localhost:5173](http://localhost:5173)
 
 ---
 
@@ -59,11 +59,18 @@ A **React autocomplete component** that provides real-time product search sugges
 ## 📂 Project Structure
 
 ```
-src/
-├── App.css          
-├── App.jsx          
-├── main.jsx        
-└── components/
-    └── Autocomplete.jsx  
+autocomplete/
+├── index.html
+├── src/
+│   ├── components/
+│   │   └── Autocomplete.jsx       
+│   ├── App.jsx
+│   ├── App.css                       
+│   ├── main.jsx                  
+│   └── index.css                 
+├── package.json                  
+├── README.md                     
+└── .gitignore                    
+
 ```
 ---
